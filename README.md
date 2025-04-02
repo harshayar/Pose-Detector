@@ -1,2 +1,4 @@
-# Pose-Detector
-Pose Detector is a real-time web app using PoseNet and p5.js to detect and visualize human body keypoints. It draws an animated skeleton, lets users freeze frames, and capture images. Ideal for motion analysis, fitness tracking, and interactive applications. Built with machine learning for an engaging experience. 
+# posenet-demo-ml5js
+A posenet demo built using ml5.js
+
+Live Demo - https://campusx-official.github.io/posenet-demo-ml5js/
