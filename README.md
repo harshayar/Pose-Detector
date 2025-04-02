@@ -1,1 +1,3 @@
+Pose Detector is a real-time web application that utilizes machine learning to detect and track human body keypoints using a webcam. Built with PoseNet, p5.js, and ml5.js, the application identifies body parts, connects them into a skeleton, and visualizes human movement dynamically. Users can freeze frames, download images, and interact with pose detection in an engaging way.
 
+This project is ideal for applications like motion analysis, fitness tracking, interactive gaming, and gesture-based controls. The system detects keypoints with high accuracy and dynamically renders a structured human skeleton for better visualization.
